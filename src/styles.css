@@ -4,6 +4,13 @@ h1{
 span.location{
     color:grey;
 }
+
+@media screen and (orientation:landscape){
+    body{
+        background-color: lightblue;
+    }
+}
+
 body{
     margin:0px;
     padding:0px;
